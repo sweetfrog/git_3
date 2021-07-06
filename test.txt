@@ -3,3 +3,4 @@
 3. third line
 4. fourth line
 5. 5th line on a branche
+6. test conflict
