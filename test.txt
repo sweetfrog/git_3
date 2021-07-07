@@ -3,5 +3,7 @@
 3. third line
 4. fourth line
 5. 5th line on a branche
+6. 6th line on new_branch
+7. 7th line on new_branch
 6. test conflict
 
